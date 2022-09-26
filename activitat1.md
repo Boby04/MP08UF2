@@ -37,8 +37,20 @@ Primer crearem una carpeta que és digue BACKUP i que només tindrà acces el ad
 
 Per a que aquesta carpeta només pot tindre accés el administrador, haurem de fer clic dret a la carpeta i després ens dirigim a “Mostra els detalls”. Una vegada dins fiquem el correu del administrador per a que només ell tingui accés.
 
+
 ![](BACKUP2.png)
+
 En el meu cas com que sóc el administrador que crear la carpeta no cal ficar la persona que té accés a la carpeta.
+
+
+
+
+Ara tocar crear la carpeta de DOCUMENTS que tindrà accés d’editar el administrador i accés de lectura el usuari.
+![](DOCUMENTS1.png)
+
+Ara ens tocar posar els permisos a la carpeta, en aquest cas el usuari tindrà el acces de lectura i el admin d’editar.
+![](DOCUMENTS2.png)
+
 
 
 
