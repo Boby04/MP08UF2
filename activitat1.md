@@ -1,4 +1,5 @@
 # Guia de creació de les unitats compartides BACKUP i DOCUMENTS Cas Pràctic 1: Oficina online
+![](driveportada.png)
 
 
 
@@ -22,3 +23,13 @@ En canvi si utilitzem google drive, al poder-ho guardar al núvol és molt més 
 * Hi han dos tipus de pla per compra les 2 TB que necessitem, un és mensual i l’altre es anual. Aquesta és la diferència entre elles. La diferencia entre aquests dos plans es que t’estalvies uns **19,98€ anuals**.
 
 ![](fotopressupost.png)
+
+
+# Guía de creació de l’usuari i administrador
+
+ * **Administrador**: Roberto(rpohrib@iesebre.com)
+ * **Usuari**: Narcís(nlleixa@iesebre.com)
+
+Primer crearem una carpeta que és digue BACKUP i que només tindrà acces el administrador.
+
+
