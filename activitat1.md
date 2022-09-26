@@ -32,4 +32,13 @@ En canvi si utilitzem google drive, al poder-ho guardar al núvol és molt més 
 
 Primer crearem una carpeta que és digue BACKUP i que només tindrà acces el administrador.
 
+![](BACKUP1.png)
+
+
+Per a que aquesta carpeta només pot tindre accés el administrador, haurem de fer clic dret a la carpeta i després ens dirigim a “Mostra els detalls”. Una vegada dins fiquem el correu del administrador per a que només ell tingui accés.
+
+![](BACKUP2.png)
+En el meu cas com que sóc el administrador que crear la carpeta no cal ficar la persona que té accés a la carpeta.
+
+
 
