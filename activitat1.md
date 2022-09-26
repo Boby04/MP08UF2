@@ -68,4 +68,15 @@ Una vegada a la nostra unitat haurem de veure les carpetes “BACKUP” i “DOC
 
 ![](ADMIN3.png)
 
+Ara per fer crear adreces directes a l’escriptori de les dos carpetes haurem de seleccionar la carpeta i arrastrar-ho baixa a l’esquerra que ens apareixerà una opció per posar-ho a accés directe.
 
+![](ADMIN4.png)
+
+Si ho hem fet bé ens hauria de apareixer així.
+
+![](ADMIN5.png)
+
+
+***Usuari***
+
+El primer que tindrem que haver fet és vincular el nostre correu electrònic amb el nostre ubuntu, un cop fet als nostres fitxers ens apareixerà un accés al nostre google drive com aquest:
