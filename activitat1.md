@@ -52,5 +52,20 @@ Ara ens tocar posar els permisos a la carpeta, en aquest cas el usuari tindrà e
 ![](DOCUMENTS2.png)
 
 
+## Creació accés directe de la carpetes “BACKUP” i “DOCUMENTS”a l’escriptori dels usuaris i Administrador i com accedir a aquest
+
+***Administrador:***
+
+El primer que farem és anar al notre drive del ubuntu, que per entrar és tan simple com entra a una carpeta normal i clica damunt del nostre correu.
+
+![](ADMIN1.png)
+
+Ara ens aparèixer unes carpetes i haurem de clica a “la meva unitat”
+
+![](ADMIN2.png)
+
+Una vegada a la nostra unitat haurem de veure les carpetes “BACKUP” i “DOCUMENTS”.
+
+![](ADMIN3.png)
 
 
